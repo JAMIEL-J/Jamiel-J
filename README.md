@@ -1,127 +1,116 @@
-## Hloo I'm Jamiel
+<div align="center">
+  <br />
+    <a href="https://github.com/JAMIEL-J">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=220&section=header&text=Jamiel%20J&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Jamiel J Banner" />
+    </a>
+  <br />
 
-**Applied AI Engineer | Data Scientist | Analytics Engineer**
+  <h3>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Analyst;SQL+|+Python+|+Tableau+|+Power+BI;Transforming+Data+into+Insights" alt="Typing SVG" />
+    </a>
+  </h3>
 
-I build **end-to-end data and AI systems** — from raw data and models to deployable applications and decision-ready dashboards.
-My work spans **analytics, machine learning, and generative AI**, with a strong emphasis on **practical deployment, system design, and business relevance**.
-
-I don’t treat analytics, ML, or LLMs as isolated experiments. I build **usable systems**.
-
----
-
-## What I Do (Role Clarity)
-
-* Design and implement **analytics pipelines** that support real business decisions
-* Build **machine learning models** and expose them through web applications
-* Develop **LLM and GenAI-based systems**, including multi-agent workflows
-* Translate ambiguous problems into **structured, measurable solutions**
-
-If it can’t be explained, deployed, or evaluated — it’s not finished.
-
----
-
-## Technical Focus Areas
-
-### Data Analytics & Business Intelligence
-
-* Exploratory Data Analysis (EDA)
-* KPI definition & performance tracking
-* Customer segmentation, churn & retention analysis
-* Executive-ready dashboards and reports
-
-### Machine Learning & Predictive Systems
-
-* Regression & classification models
-* Feature engineering and preprocessing
-* Model evaluation and optimization
-* Practical ML with production awareness
-
-### Generative AI & LLM Systems
-
-* LLM-powered applications and workflows
-* Prompt engineering and structured outputs
-* Multi-agent research systems
-* API-based GenAI integration (Gemini)
-
-### Engineering & Tools
-
-* **Python**: pandas, NumPy, scikit-learn, TensorFlow
-* **SQL**: analytical querying & transformations
-* **Web Apps**: Streamlit (ML & AI interfaces)
-* **Visualization**: Power BI, Matplotlib
-* **Pipelines**: ETL, Power Query, modular workflows
-
-I prioritize **maintainability, clarity, and reuse** over clever shortcuts.
+  <p>
+    <a href="mailto:jahirjamiel@gmail.com">
+      <img src="https://img.shields.io/badge/Email-jahirjamiel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/jamiel-j-856ab9329/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://jamiel-j.netlify.app/">
+      <img src="https://img.shields.io/badge/Portfolio-View%20Projects-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## Representative Projects
+### 👨‍💻 **About Me**
 
-### Smart Rent Predictor (ML Web App)
+I am an **Entry-level Data Analyst** based in **Pudukkottai / Chennai, India**. I specialize in converting raw data into actionable business insights through robust data validation, KPI reporting, and visualization.
 
-* Built using **TensorFlow + Streamlit**
-* Predicts rental prices using structured features
-* Demonstrates the full ML lifecycle: data → model → deployment
+My academic background in **Information Technology**, combined with practical internship experience at **BY8LABS AI**, has equipped me to handle end-to-end data workflows—from cleaning and wrangling to stakeholder reporting.
 
-This is applied ML, not a notebook-only demo.
-
----
-
-### Multi-Agent Research System (GenAI)
-
-* Built using **Gemini API**
-* Implements multi-agent task decomposition and synthesis
-* Explores coordinated LLM reasoning beyond single-prompt usage
-
-Focused on system behavior, not prompt tricks.
+* 🔭 **I’m currently working on:** Advanced funnel analysis and customer segmentation.
+* 👯 **I’m looking to collaborate on:** Open-source data analytics projects and business intelligence dashboards.
+* 💬 **Ask me about:** SQL Window Functions, RFM Analysis, and GA4 Data.
 
 ---
 
-### Analytics & BI Dashboards
+### 🛠 **Technical Arsenal**
 
-* Modular, performance-aware dashboards
-* Clear metric logic and KPI ownership
-* Designed for stakeholders, not analysts only
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="icon" width="65" height="65" />
+      <br>Tableau
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="icon" width="65" height="65" />
+      <br>Power BI
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="icon" width="65" height="65" />
+      <br>Excel
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Git
+    </td>
+  </tr>
+</table>
 
-Every visualization serves a decision.
-
----
-
-## What You’ll Find in This GitHub
-
-* End-to-end **analytics, ML, and GenAI projects**
-* Deployable web apps, not isolated scripts
-* Clean Python utilities and data pipelines
-* Documentation that explains **design choices and trade-offs**
-
-This is a **working portfolio**, not a project dump.
-
----
-
-## Current Focus
-
-* Building **LLM-based systems** beyond chat interfaces
-* Improving **robustness and UX** of ML-powered web apps
-* Designing analytics systems that scale past demos
-* Aligning work toward **Applied AI / ML Engineer roles**
-
----
-
-## Working Philosophy
-
-> Good systems reduce confusion.
-> Great systems reduce decision cost.
-
-Models and dashboards are tools.
-The outcome is **clarity, leverage, and trust**.
+**Core Competencies:**
+* **Querying:** MySQL, BigQuery, Joins, CTEs, Window Functions.
+* **Analysis:** Exploratory Data Analysis (EDA), Funnel Analysis, Variance Analysis.
+* **Libraries:** Pandas, NumPy.
 
 ---
 
-## Connect
+### 📊 **Featured Analytics Projects**
 
-* **LinkedIn**: *(https://www.linkedin.com/in/jamiel-j-856ab9329)*
-* **Portfolio**: *(https://jamiel-j.netlify.app/)*
+My repositories focus on solving real-world business problems using data. Here is a general overview of the types of analysis I conduct:
 
-Open to collaboration in **Applied AI, ML systems, analytics engineering**, and research-driven tooling.
+#### 🔹 **Web Traffic & Conversion Funnel Analysis**
+* **Objective:** Analyze user progression across key stages (view → cart → purchase) to identify drop-off points.
+* **Tech Stack:** `SQL` `Python` `Tableau` `BigQuery`
+* **Impact:** Revealed checkout-stage friction as the primary contributor to conversion loss, supporting UX optimization decisions.
+
+#### 🔹 **Sales Performance & Territory Metrics**
+* **Objective:** Evaluate revenue patterns across different regions and time periods.
+* **Tech Stack:** `MySQL` `Python` `Tableau`
+* **Impact:** Highlighted revenue dependency risks driven by limited territories and high-performing product categories.
+
+#### 🔹 **Customer Segmentation & RFM Modeling**
+* **Objective:** Classify customers based on purchasing behavior to improve retention strategies.
+* **Tech Stack:** `MySQL` `Python` `Power BI`
+* **Impact:** Identified high-value customer segments versus low-engagement cohorts to support reactivation strategies.
 
 ---
+
+### 📈 **GitHub Stats**
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JAMIEL-J&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAMIEL-J&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<div align="center">
+  <p>Let's connect and talk data!</p>
+  <p>
+    <a href="mailto:jahirjamiel@gmail.com">jahirjamiel@gmail.com</a> •
+    <a href="https://www.linkedin.com/in/jamiel-j-856ab9329/">LinkedIn</a> •
+    <a href="https://jamiel-j.netlify.app/">Portfolio</a>
+  </p>
+</div>
