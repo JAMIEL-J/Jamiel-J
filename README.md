@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1800&color=8B9DC3&center=true&vCenter=true&width=560&lines=Building+production-ready+data+%26+AI+systems;Analytics+that+ship+with+business+impact)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1800&color=8B9DC3&center=true&vCenter=true&width=560&lines=Building+production-ready+data+and+AI+systems;Analytics+that+ship+with+business+impact)
 
 ![Divider](https://img.shields.io/badge/%E2%9C%A6%20Data%20%7C%20AI%20%7C%20Automation%20%E2%9C%A6-0D1117?style=flat-square&labelColor=0D1117&color=1A1A2E)
 
