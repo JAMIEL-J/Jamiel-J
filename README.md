@@ -2,6 +2,14 @@
 
 <div align="center">
 
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1800&color=8B9DC3&center=true&vCenter=true&width=560&lines=Building+production-ready+data+%26+AI+systems;Analytics+that+ship+with+business+impact)
+
+![Divider](https://img.shields.io/badge/%E2%9C%A6%20Data%20%7C%20AI%20%7C%20Automation%20%E2%9C%A6-0D1117?style=flat-square&labelColor=0D1117&color=1A1A2E)
+
+</div>
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamiel-j-856ab9329/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://jamiel-j.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jahirjamiel@gmail.com)
@@ -71,7 +79,7 @@ Offline-capable voice assistant for Windows 11. Runs faster-whisper (base, int8,
 
 <br/>
 
-[![DNA](https://github-readme-stats.vercel.app/api/pin/?username=JAMIEL-J&repo=DNA-Desktop-Assistant-&theme=tokyonight&hide_border=true)](https://github.com/JAMIEL-J/DNA-Desktop-Assistant-)
+[![DNA](https://opengraph.githubassets.com/1/JAMIEL-J/DNA-Desktop-Assistant-)](https://github.com/JAMIEL-J/DNA-Desktop-Assistant-)
 
 ---
 
