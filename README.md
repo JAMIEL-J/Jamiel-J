@@ -1,150 +1,141 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e&height=200&section=header&text=Jamiel%20J&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%7C%20Building%20with%20AI&descSize=18&descAlignY=58&descColor=8b9dc3)
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Jamiel%20J&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Data%20Scientist%20%7C%20AI%20Builder%20%7C%20Analytics%20Engineer&descSize=20&descAlignY=56&descColor=b0c4de" width="100%" alt="Jamiel J Banner" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamiel-j-856ab9329/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://jamiel-j.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jahirjamiel@gmail.com)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-1D9E75?style=flat-square&logo=checkmarx&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=JAMIEL-J&style=flat-square&color=1D9E75&label=Profile+Views)
+
 </div>
 
-<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
+---
+
+**Data Analyst** — I turn messy datasets into decisions that actually move numbers.
+
+Final-year B.Tech IT student at MIET, Tiruchirappalli (graduating June 2026). I spent the last two years building things that work in production, not just in notebooks — an NL-to-SQL analytics platform, an offline voice assistant, and a set of analytics projects that quantify their own results. I'm actively looking for Data Analyst / ML Analyst roles, open to remote and full-time.
+
+- 📍 Pudukkottai, India — open to remote & relocation
+- 💼 Interned at BY8LABS AI — KPI dashboards, EDA, data validation pipelines
+- 🔨 Currently building: JD-Match (multi-agent job intelligence system, LangGraph)
+- 📬 Reach me: jahirjamiel@gmail.com · +91 78453 01134
+
+---
+
+## Tech stack
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+Enthusiast+%F0%9F%93%8A;AI+%26+GenAI+Builder+%F0%9F%A4%96;Turning+Raw+Data+into+Real+Decisions+%F0%9F%9A%80;Open+to+Opportunities+in+Chennai+%2F+Hybrid+%F0%9F%93%8D" alt="Typing SVG" />
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter,fastapi,react&theme=dark" />
+
+<br/><br/>
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
 </div>
 
-<!-- ═══════════════════════ SOCIAL LINKS ═══════════════════════ -->
-<div align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/jamiel-j-856ab9329/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://jamiel-j.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="mailto:jahirjamiel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=JAMIEL-J&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
+I don't list frameworks I haven't shipped something with.
+
+---
+
+## Projects
+
+### [Vizzy Analytics](https://github.com/JAMIEL-J/Vizzy-Analytics)
+
+NL-to-SQL analytics platform. Ask a question in plain English — get a validated SQL query, a chart, and a business narrative, automatically. Built SQLGlot validation to catch hallucinated SQL before it touches the database. Hits **104ms p95** query time on **1M rows** via DuckDB. Has JWT + RBAC, append-only audit logs, and a governed cleaning workflow so nothing happens to your data without approval.
+
+`FastAPI` `DuckDB` `React 19` `Groq (Llama 3.3-70b)` `SQLGlot` `JWT/RBAC` `SQLModel` `Recharts` `Zustand`
 
 <br/>
 
----
-
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
-## 🙋‍♂️ About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
-
-Hello! I'm **Jamiel J** — a Data Science & Analytics enthusiast who loves bridging the gap between complex datasets and strategic business decisions. My work lives at the intersection of **data engineering**, **machine learning**, and **business intelligence**.
-
-- 🎓 **Education:** Final-year B.Tech in IT · M.I.E.T Engineering College
-- 💼 **Experience:** Data Analyst Intern · BY8LABS AI
-- 📍 **Location:** Pudukkottai, India *(Open to Chennai / Hybrid)*
-- 🧠 **Currently exploring:** GenAI Agents · LLM-powered tooling
-- ⚡ **Fun fact:** I build AI assistants *and* data pipelines — sometimes at the same time!
-
-<br clear="right"/>
+[![Vizzy](https://github-readme-stats.vercel.app/api/pin/?username=JAMIEL-J&repo=Vizzy-Analytics&theme=tokyonight&hide_border=true)](https://github.com/JAMIEL-J/Vizzy-Analytics)
 
 ---
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-## 🛠️ Tech Stack
+### [DNA Voice Assistant](https://github.com/JAMIEL-J/DNA-Desktop-Assistant-)
 
-<div align="center">
+Offline-capable voice assistant for Windows 11. Runs faster-whisper (base, int8, VAD filter) for STT, Piper TTS for speech, OpenWakeWord for always-on detection, and Gemma 4 31B via Gemini API for reasoning. Uses a regex-first intent router so simple commands never touch the LLM — keeps latency low on 8GB RAM with no GPU. 3-state session model with mic gating after TTS to prevent echo loops.
 
-**Languages & Analysis**
+`Python` `faster-whisper` `Piper TTS` `OpenWakeWord` `Gemma 4` `Gemini API` `SQLite` `DuckDB`
 
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" height="48" alt="Python, SQL"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28" alt="Scikit-Learn"/>
+<br/>
 
-**BI & Visualization**
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" height="28" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" alt="Excel"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="28" alt="Plotly"/>
-
-**AI / GenAI & Cloud**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,gcp,git,github,vscode,jupyter&theme=dark" height="48" alt="AI and Cloud tools"/>
-&nbsp;
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" height="28" alt="BigQuery"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" alt="LangChain"/>
-
-</div>
+[![DNA](https://github-readme-stats.vercel.app/api/pin/?username=JAMIEL-J&repo=DNA-Desktop-Assistant-&theme=tokyonight&hide_border=true)](https://github.com/JAMIEL-J/DNA-Desktop-Assistant-)
 
 ---
 
-<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
-## 🚀 Featured Projects
+### Analytics projects — results, not just code
 
-<div align="center">
-
-| 🗂️ Project | 📌 Description | 🔧 Stack |
+| Project | What it found | Stack |
 |:---|:---|:---|
-| [**🔬 Vizzy Analytics**](https://github.com/JAMIEL-J/Vizzy-Analytics) | AI-powered analytics platform for automated data insights and visualization | `Python` `Streamlit` `GenAI` |
-| [**🤖 DNA Desktop Assistant**](https://github.com/JAMIEL-J/DNA-Desktop-Assistant-) | Voice-activated desktop AI assistant for productivity automation | `Python` `NLP` `Speech` |
-| [**⚖️ Contract Risk Bot**](https://github.com/JAMIEL-J/contract-risk-assessment-bot) | GenAI-powered legal assistant that identifies risks in contracts for SMBs | `Python` `LLM` `LangChain` |
-| [**🧪 Dynamo Multi-Agent Research**](https://github.com/JAMIEL-J/Dynamo-Multi-Agent-Research) | Question-driven multi-agent system for structured academic research generation | `Python` `Agents` `LLM` |
-| [**📦 Demand Forecasting & Inventory**](https://github.com/JAMIEL-J/Demand-Forecasting-and-Inventory-Optimization) | Multi-horizon demand forecasting with quantile regression for inventory policy | `Python` `ML` `Jupyter` |
-| [**💰 Sales Performance Optimization**](https://github.com/JAMIEL-J/Sales-performance-Optimization) | Identifies revenue concentration risks & territory inefficiencies in e-commerce | `Python` `Pandas` `EDA` |
-| [**🔁 Conversion Funnel Analysis**](https://github.com/JAMIEL-J/Conversion-Funnel-Analysis) | Pinpoints revenue leaks in e-commerce funnels with actionable recommendations | `Python` `Analytics` |
-| [**👥 Customer Lifetime Intelligence**](https://github.com/JAMIEL-J/Customer-Lifetime-Intelligence) | RFM segmentation & CLV modeling for churn prediction and retention strategy | `Python` `ML` `Pandas` |
-| [**🏥 Hospital Analytics**](https://github.com/JAMIEL-J/Hospital-Analytics) | Healthcare data analysis dashboard for patient flow and resource optimization | `Python` `BI` |
-| [**🏠 House Rent Predictor**](https://github.com/JAMIEL-J/House-Rent-Predictor) | ML regression model deployed as a web app to predict rental prices | `Python` `Streamlit` `ML` |
+| [**Fraud Detection**](https://github.com/JAMIEL-J/Customer-Lifetime-Intelligence) | 99.76% recall · ROC-AUC 0.9993 · threshold-optimized for minimum missed fraud | LightGBM · SMOTE · Scikit-learn |
+| [**Demand Forecasting**](https://github.com/JAMIEL-J/Demand-Forecasting-and-Inventory-Optimization) | 4.01% WAPE across 45 stores · 31.7% over baseline · outputs fed into inventory policy | Prophet · SARIMAX · Quantile Regression |
+| [**Revenue Leak / Funnel**](https://github.com/JAMIEL-J/Conversion-Funnel-Analysis) | $1.14M annual leakage identified in cart abandonment + checkout drop-off | Python · Pandas · EDA |
+| [**RFM Segmentation**](https://github.com/JAMIEL-J/Sales-performance-Optimization) | Top 20% customers = 65% revenue · territory inefficiency mapping | Python · RFM · Pandas |
+| [**Hospital Analytics**](https://github.com/JAMIEL-J/Hospital-Analytics) | Patient flow + resource utilization dashboard for operational decisions | Python · BI |
+| [**House Rent Predictor**](https://github.com/JAMIEL-J/House-Rent-Predictor) | ML regression model deployed as a live Streamlit web app | Python · Streamlit · Scikit-learn |
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JAMIEL-J&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=prs" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAMIEL-J&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook,html" height="160"/>
+
+</div>
+
+<div align="center">
+
+[![Streak](https://streak-stats.demolab.com?user=JAMIEL-J&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/JAMIEL-J)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JAMIEL-J&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/JAMIEL-J)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ ANALYTICS DOMAINS ═══════════════════════ -->
-## 📂 Analytics Domains
+## Currently building
+
+**JD-Match** — Multi-agent job intelligence system using LangGraph. Parses job descriptions, extracts structured requirements, and matches them against candidate profiles with scored output. Solves the problem of applying blind without knowing what a JD actually weights.
+
+Also wrapping up final documentation and submission for Vizzy as my B.Tech final-year project (June 2026).
+
+---
+
+## Let's talk
+
+If you're hiring for a Data Analyst, ML Analyst, or Data Scientist role — remote or full-time — I'm actively looking.
+
+📧 jahirjamiel@gmail.com  
+📞 +91 78453 01134  
+🔗 [LinkedIn](https://www.linkedin.com/in/jamiel-j-856ab9329/)  
+🌐 [Portfolio](https://jamiel-j.netlify.app/)
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  📈  Marketing & Web Analytics  ─  Funnel Optimization              │
-│  💰  Sales & Revenue            ─  KPI Tracking · Risk Detection    │
-│  👥  Behavioral Segmentation    ─  RFM Modeling · Churn Prediction  │
-│  🔍  Statistical EDA            ─  Deep-dive Trend Analysis         │
-│  🤖  GenAI & Agents             ─  LLM Tools · Multi-Agent Systems  │
-│  🏠  Predictive Modeling        ─  Regression · Forecasting         │
-└─────────────────────────────────────────────────────────────────────┘
-```
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamiel-j-856ab9329/)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
-## 📊 GitHub Activity
+*I read my own project READMEs like a skeptic. If something looks thin, I fix it before listing it here.*
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAMIEL-J&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAMIEL-J&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JAMIEL-J&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAMIEL-J&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
-</div>
-
----
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" alt="Dev Quote"/>
-  <br/><br/>
-  <i>✨ Let's connect — always open to data science collaborations and new opportunities!</i>
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/jamiel-j-856ab9329/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Wave"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e&height=100&section=footer)
