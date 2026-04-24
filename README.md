@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e&height=200&section=header&text=Jamiel%20J&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%7C%20Building%20with%20AI&descSize=18&descAlignY=58&descColor=8b9dc3)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117,161b22,1f6feb&height=200&section=header&text=Jamiel%20J&fontSize=60&fontColor=79c0ff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%7C%20Building%20with%20AI&descSize=18&descAlignY=58&descColor=c9d1d9)
 
 <div align="center">
 
