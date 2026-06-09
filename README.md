@@ -67,7 +67,7 @@ NL-to-SQL analytics platform. Ask a question in plain English — get a validate
 
 <br/>
 
-[![Vizzy](https://github-readme-stats.vercel.app/api/pin/?username=JAMIEL-J&repo=vizzy-ai&theme=tokyonight&hide_border=true)](https://github.com/JAMIEL-J/vizzy-ai/)
+[![Vizzy](https://opengraph.githubassets.com/1/JAMIEL-J/vizzy-ai)](https://github.com/JAMIEL-J/vizzy-ai/)
 
 ---
 
