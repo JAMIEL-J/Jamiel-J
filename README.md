@@ -59,7 +59,7 @@ I don't list frameworks I haven't shipped something with.
 
 ## Projects
 
-### [Vizzy Analytics](https://github.com/JAMIEL-J/Vizzy-Analytics)
+### [Vizzy Analytics](https://github.com/JAMIEL-J/vizzy-ai)
 
 NL-to-SQL analytics platform. Ask a question in plain English — get a validated SQL query, a chart, and a business narrative, automatically. Built SQLGlot validation to catch hallucinated SQL before it touches the database. Hits **104ms p95** query time on **1M rows** via DuckDB. Has JWT + RBAC, append-only audit logs, and a governed cleaning workflow so nothing happens to your data without approval.
 
