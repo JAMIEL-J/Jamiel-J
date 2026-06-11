@@ -67,7 +67,7 @@ NL-to-SQL analytics platform. Ask a question in plain English — get a validate
 
 <br/>
 
-[![Vizzy](https://opengraph.githubassets.com/1/JAMIEL-J/Vizzy-Analytics/)](https://github.com/JAMIEL-J/Vizzy-Analytics/)
+[![Vizzy](https://opengraph.githubassets.com/1/JAMIEL-J/Vizzy-Analytics)](https://github.com/JAMIEL-J/Vizzy-Analytics/)
 
 ---
 
