@@ -1,12 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117,161b22,1f6feb&height=200&section=header&text=Jamiel%20J&fontSize=60&fontColor=79c0ff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%7C%20Building%20with%20AI&descSize=18&descAlignY=58&descColor=c9d1d9)
-
-<div align="center">
-
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1800&color=8B9DC3&center=true&vCenter=true&width=560&lines=Building+production-ready+data+and+AI+systems;Analytics+that+ship+with+business+impact)
-
-![Divider](https://img.shields.io/badge/%E2%9C%A6%20Data%20%7C%20AI%20%7C%20Automation%20%E2%9C%A6-0D1117?style=flat-square&labelColor=0D1117&color=1A1A2E)
-
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117,161b22,1f6feb&height=180&section=header&text=Jamiel%20J&fontSize=56&fontColor=79c0ff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%94%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Building%20with%20AI&descSize=17&descAlignY=58&descColor=c9d1d9)
 
 <div align="center">
 
@@ -14,24 +6,22 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://jamiel-j.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jahirjamiel@gmail.com)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-1D9E75?style=flat-square&logo=checkmarx&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=JAMIEL-J&style=flat-square&color=1D9E75&label=Profile+Views)
 
 </div>
 
 ---
 
-**Data Analyst** — I turn messy datasets into decisions that actually move numbers.
+### 99.76% recall on a fraud model. $1.14M in leakage traced on a funnel. 104ms p95 on a 1M-row query engine I built myself.
 
-Final-year B.Tech IT student at MIET, Tiruchirappalli (graduating June 2026). I spent the last two years building things that work in production, not just in notebooks — an NL-to-SQL analytics platform, an offline voice assistant, and a set of analytics projects that quantify their own results. I'm actively looking for Data Analyst / ML Analyst roles, open to remote and full-time.
+I'm a Data Analyst out of Pudukkottai, India (B.Tech IT, MIET, Class of 2026). I build things that produce a number at the end, not just a notebook — an NL-to-SQL platform with real validation and access control, an offline voice assistant that runs on 8GB RAM with no GPU, and a set of analytics projects where every claim above has a metric behind it.
 
-- 📍 Pudukkottai, India — open to remote & relocation
-- 💼 Interned at BY8LABS AI — KPI dashboards, EDA, data validation pipelines
-- 🔨 Currently building: JD-Match (multi-agent job intelligence system, LangGraph)
-- 📬 Reach me: jahirjamiel@gmail.com · +91 78453 01134
+Interned at **BY8LABS AI** building KPI dashboards, EDA pipelines, and data validation workflows. Currently looking for Data Analyst / ML Analyst roles — remote or full-time.
+
+📬 **jahirjamiel@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jamiel-j-856ab9329/) &nbsp;·&nbsp; [Portfolio](https://jamiel-j.netlify.app/)
 
 ---
 
-## Tech stack
+## Stack — only what I've shipped with
 
 <div align="center">
 
@@ -40,7 +30,6 @@ Final-year B.Tech IT student at MIET, Tiruchirappalli (graduating June 2026). I 
 <br/><br/>
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
@@ -48,51 +37,43 @@ Final-year B.Tech IT student at MIET, Tiruchirappalli (graduating June 2026). I 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 </div>
 
-I don't list frameworks I haven't shipped something with.
+If it's not on this list, I haven't shipped with it — ask me about it instead of assuming.
 
 ---
 
-## Projects
+## Flagship builds
 
-### [Vizzy Analytics](https://github.com/JAMIEL-J/Vizzy-Analytics)
+### 🔹 [Vizzy Analytics](https://github.com/JAMIEL-J/Vizzy-Analytics)
+NL-to-SQL analytics platform. Ask a question in plain English, get back a validated SQL query, a chart, and a written narrative. SQLGlot catches hallucinated SQL before it touches the database. **104ms p95** on **1M rows** via a DuckDB-first ingestion pipeline (3.34x faster than pandas, 47.7MB peak heap vs. 500MB+ risk). JWT + RBAC, append-only audit logging, and an approval-gated cleaning workflow — nothing touches the data without a human signing off.
 
-NL-to-SQL analytics platform. Ask a question in plain English — get a validated SQL query, a chart, and a business narrative, automatically. Built SQLGlot validation to catch hallucinated SQL before it touches the database. Hits **104ms p95** query time on **1M rows** via DuckDB. Has JWT + RBAC, append-only audit logs, and a governed cleaning workflow so nothing happens to your data without approval.
-
-`FastAPI` `DuckDB` `React 19` `Groq (Llama 3.3-70b)` `SQLGlot` `JWT/RBAC` `SQLModel` `Recharts` `Zustand`
-
-<br/>
+`FastAPI` `DuckDB` `React 19` `Groq (Llama 3.3-70B)` `SQLGlot` `JWT/RBAC` `SQLModel` `Recharts` `Zustand`
 
 [![Vizzy](https://opengraph.githubassets.com/1/JAMIEL-J/Vizzy-Analytics)](https://github.com/JAMIEL-J/Vizzy-Analytics/)
 
 ---
 
-### [DNA Voice Assistant](https://github.com/JAMIEL-J/DNA-Desktop-Assistant-)
-
-Offline-capable voice assistant for Windows 11. Runs faster-whisper (base, int8, VAD filter) for STT, Piper TTS for speech, OpenWakeWord for always-on detection, and Gemma 4 31B via Gemini API for reasoning. Uses a regex-first intent router so simple commands never touch the LLM — keeps latency low on 8GB RAM with no GPU. 3-state session model with mic gating after TTS to prevent echo loops.
+### 🔹 [DNA Voice Assistant](https://github.com/JAMIEL-J/DNA-Desktop-Assistant-)
+Fully offline voice assistant for Windows 11 — runs on an i3-1134G4, 8GB RAM, no GPU. `faster-whisper` (int8, VAD-filtered) handles STT, Piper handles TTS, OpenWakeWord handles always-on detection, Gemma 4 31B via the Gemini API handles reasoning. A regex-first intent router means simple commands never touch the LLM, which is what keeps latency sane on this hardware. Three-state session model (sleeping → active → processing) with mic gating after TTS output to kill echo loops.
 
 `Python` `faster-whisper` `Piper TTS` `OpenWakeWord` `Gemma 4` `Gemini API` `SQLite` `DuckDB`
-
-<br/>
 
 [![DNA](https://opengraph.githubassets.com/1/JAMIEL-J/DNA-Desktop-Assistant-)](https://github.com/JAMIEL-J/DNA-Desktop-Assistant-)
 
 ---
 
-### Analytics projects — results, not just code
+## Analytics projects — every row has a number
 
-| Project | What it found | Stack |
+| Project | Result | Stack |
 |:---|:---|:---|
-| [**Fraud Detection**](https://github.com/JAMIEL-J/Customer-Lifetime-Intelligence) | 99.76% recall · ROC-AUC 0.9993 · threshold-optimized for minimum missed fraud | LightGBM · SMOTE · Scikit-learn |
-| [**Demand Forecasting**](https://github.com/JAMIEL-J/Demand-Forecasting-and-Inventory-Optimization) | 4.01% WAPE across 45 stores · 31.7% over baseline · outputs fed into inventory policy | Prophet · SARIMAX · Quantile Regression |
+| [**Fraud Detection**](https://github.com/JAMIEL-J/Customer-Lifetime-Intelligence) | 99.76% recall · ROC-AUC 0.9993 · threshold tuned to minimize missed fraud | LightGBM · SMOTE · Scikit-learn |
+| [**Demand Forecasting**](https://github.com/JAMIEL-J/Demand-Forecasting-and-Inventory-Optimization) | 4.01% WAPE across 45 stores · 31.7% better than baseline | Prophet · SARIMAX · Quantile Regression |
 | [**Revenue Leak / Funnel**](https://github.com/JAMIEL-J/Conversion-Funnel-Analysis) | $1.14M annual leakage identified in cart abandonment + checkout drop-off | Python · Pandas · EDA |
-| [**RFM Segmentation**](https://github.com/JAMIEL-J/Sales-performance-Optimization) | Top 20% customers = 65% revenue · territory inefficiency mapping | Python · RFM · Pandas |
-| [**Hospital Analytics**](https://github.com/JAMIEL-J/Hospital-Analytics) | Patient flow + resource utilization dashboard for operational decisions | Python · BI |
-| [**House Rent Predictor**](https://github.com/JAMIEL-J/House-Rent-Predictor) | ML regression model deployed as a live Streamlit web app | Python · Streamlit · Scikit-learn |
+| [**RFM Segmentation**](https://github.com/JAMIEL-J/Sales-performance-Optimization) | Top 20% of customers drive 65% of revenue · territory inefficiency mapped | Python · RFM · Pandas |
+
+*(Two more projects — Hospital Analytics and House Rent Predictor — exist in my repos but aren't listed here until they have a metric attached. Code without a number is a draft, not a result.)*
 
 ---
 
@@ -111,39 +92,22 @@ Offline-capable voice assistant for Windows 11. Runs faster-whisper (base, int8,
 
 </div>
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JAMIEL-J&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/JAMIEL-J)
-
-</div>
-
 ---
 
 ## Currently building
 
-**JD-Match** — Multi-agent job intelligence system using LangGraph. Parses job descriptions, extracts structured requirements, and matches them against candidate profiles with scored output. Solves the problem of applying blind without knowing what a JD actually weights.
+**JD-Match** — multi-agent job intelligence system on LangGraph. Parses a job description into structured requirements and scores a candidate profile against it, instead of applying blind without knowing what the JD actually weights. Early stage — not demo-ready yet, so it's not in the flagship section above.
 
-Also wrapping up final documentation and submission for Vizzy as my B.Tech final-year project (June 2026).
+Also closing out final documentation on Vizzy as my B.Tech capstone (June 2026).
 
 ---
 
 ## Let's talk
 
-If you're hiring for a Data Analyst, ML Analyst, or Data Scientist role — remote or full-time — I'm actively looking.
+Hiring for a Data Analyst or ML Analyst role — remote or full-time? I'm actively looking.
 
-📧 jahirjamiel@gmail.com  
-📞 +91 78453 01134  
-🔗 [LinkedIn](https://www.linkedin.com/in/jamiel-j-856ab9329/)  
-🌐 [Portfolio](https://jamiel-j.netlify.app/)
+[![Email](https://img.shields.io/badge/jahirjamiel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahirjamiel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamiel-j-856ab9329/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://jamiel-j.netlify.app/)
 
-<div align="center">
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamiel-j-856ab9329/)
-
-</div>
-
----
-
-*I read my own project READMEs like a skeptic. If something looks thin, I fix it before listing it here.*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e&height=90&section=footer)
