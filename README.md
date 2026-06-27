@@ -2,6 +2,12 @@
 
 <div align="center">
 
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=79C0FF&center=true&vCenter=true&width=620&lines=Data+Analyst+%E2%80%94+SQL+%C2%B7+Python+%C2%B7+Power+BI;Building+toward+AI+engineering%2C+one+shipped+system+at+a+time;Vizzy+%26+DNA%3A+the+bridge+from+analytics+to+AI)
+
+</div>
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamiel-j-856ab9329/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://jamiel-j.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jahirjamiel@gmail.com)
@@ -11,9 +17,17 @@
 
 ---
 
-### 99.76% recall on a fraud model. $1.14M in leakage traced on a funnel. 104ms p95 on a 1M-row query engine I built myself.
+<div align="center">
 
-I'm a Data Analyst out of Pudukkottai, India (B.Tech IT, MIET, Class of 2026). I build things that produce a number at the end, not just a notebook — an NL-to-SQL platform with real validation and access control, an offline voice assistant that runs on 8GB RAM with no GPU, and a set of analytics projects where every claim above has a metric behind it.
+![Recall](https://img.shields.io/badge/Fraud_Recall-99.76%25-1f6feb?style=for-the-badge&labelColor=0d1117)
+![Leakage](https://img.shields.io/badge/Revenue_Leakage_Found-%241.14M-1f6feb?style=for-the-badge&labelColor=0d1117)
+![Latency](https://img.shields.io/badge/Query_p95_Latency-104ms_%2F_1M_rows-1f6feb?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+I'm a Data Analyst out of Pudukkottai, India (B.Tech IT, MIET, Class of 2026), building toward AI engineering rather than claiming the title before I've earned it. The three numbers above are real, sourced from a fraud model, a funnel analysis, and a query engine I built myself — not estimates, not from a tutorial dataset.
+
+Vizzy (NL-to-SQL platform) and DNA (offline voice assistant) are the bridge: analytics work with an LLM layer wired in, built and validated by me end to end. That's the honest version of "AI" on this profile — shipped systems that use AI, not a claim to be an AI engineer yet.
 
 Interned at **BY8LABS AI** building KPI dashboards, EDA pipelines, and data validation workflows. Currently looking for Data Analyst / ML Analyst roles — remote or full-time.
 
