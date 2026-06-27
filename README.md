@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117,161b22,1f6feb&height=180&section=header&text=Jamiel%20J&fontSize=56&fontColor=79c0ff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%94%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Building%20with%20AI&descSize=17&descAlignY=58&descColor=c9d1d9)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117,161b22,1f6feb&height=180&section=header&text=Jamiel%20J&fontSize=56&fontColor=79c0ff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%94%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI&descSize=17&descAlignY=58&descColor=c9d1d9)
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=79C0FF&center=true&vCenter=true&width=620&lines=Data+Analyst+%E2%80%94+SQL+%C2%B7+Python+%C2%B7+Power+BI;Building+toward+AI+engineering%2C+one+shipped+system+at+a+time;Vizzy+%26+DNA%3A+the+bridge+from+analytics+to+AI)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=79C0FF&center=true&vCenter=true&width=620&lines=Data+Analyst+%E2%80%94+SQL+%C2%B7+Python+%C2%B7+Power+BI;Turning+messy+datasets+into+decisions+that+move+numbers;Currently+looking+for+Data+Analyst+%2F+ML+Analyst+roles)
 
 </div>
 
@@ -25,9 +25,7 @@
 
 </div>
 
-I'm a Data Analyst out of Pudukkottai, India (B.Tech IT, MIET, Class of 2026), building toward AI engineering rather than claiming the title before I've earned it. The three numbers above are real, sourced from a fraud model, a funnel analysis, and a query engine I built myself — not estimates, not from a tutorial dataset.
-
-Vizzy (NL-to-SQL platform) and DNA (offline voice assistant) are the bridge: analytics work with an LLM layer wired in, built and validated by me end to end. That's the honest version of "AI" on this profile — shipped systems that use AI, not a claim to be an AI engineer yet.
+I'm a Data Analyst out of Pudukkottai, India (B.Tech IT, MIET, Class of 2026). The three numbers above are real, sourced from a fraud model, a funnel analysis, and a query engine I built myself — not estimates, not from a tutorial dataset.
 
 Interned at **BY8LABS AI** building KPI dashboards, EDA pipelines, and data validation workflows. Currently looking for Data Analyst / ML Analyst roles — remote or full-time.
 
