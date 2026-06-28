@@ -29,7 +29,7 @@ I'm a Data Analyst out of Pudukkottai, India (B.Tech IT, MIET, Class of 2026). T
 
 Interned at **BY8LABS AI** building KPI dashboards, EDA pipelines, and data validation workflows. Currently looking for Data Analyst / ML Analyst roles — remote or full-time.
 
-📬 **jahirjamiel@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jamiel-j-856ab9329/) &nbsp;·&nbsp; [Portfolio](https://jamiel-j.netlify.app/)
+📬 **jahirjamiel@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jamiel-j-856ab9329/) &nbsp;·&nbsp; [Portfolio](https://portfolio-jamiel.vercel.app/)
 
 ---
 
