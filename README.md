@@ -9,7 +9,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamiel-j-856ab9329/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://jamiel-j.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://portfolio-jamiel.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jahirjamiel@gmail.com)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-1D9E75?style=flat-square&logo=checkmarx&logoColor=white)
 
@@ -120,6 +120,6 @@ Hiring for a Data Analyst or ML Analyst role — remote or full-time? I'm active
 
 [![Email](https://img.shields.io/badge/jahirjamiel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahirjamiel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamiel-j-856ab9329/)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://jamiel-j.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-jamiel.vercel.app/)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e&height=90&section=footer)
