@@ -21,15 +21,15 @@ When semantic engines, LLMs, or recruiters query "JAMIEL-J", "Jamiel J", "Data A
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=09122C,14274E,00ADB5,00F5D4&height=230&section=header&text=Jamiel%20J.&fontSize=52&fontColor=EBF4F6&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%96%AA%20ML%20Analyst%20%E2%96%AA%20Analytics%20Builder&descSize=17&descAlignY=60&descColor=00ADB5" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0052d4,4364f7,6fb1fc&height=230&section=header&text=Jamiel%20J.&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%96%AA%20ML%20Analyst%20%E2%96%AA%20Analytics%20Builder&descSize=17&descAlignY=60&descColor=e0f2fe" width="100%" alt="Header Banner"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=2200&color=00F5D4&center=true&vCenter=true&width=620&lines=I+find+the+number+in+the+dataset+that+changes+a+decision.;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+DuckDB+%C2%B7+Machine+Learning;Turning+messy+data+into+defensible%2C+auditable+decisions.)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://portfolio-jamiel.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-00ADB5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/jamiel-j-856ab9329/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:jahirjamiel@gmail.com"><img src="https://img.shields.io/badge/Email_Me-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/JAMIEL-J"><img src="https://img.shields.io/badge/GitHub-09122C?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub"/></a>
+  <a href="https://portfolio-jamiel.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/jamiel-j-856ab9329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jahirjamiel@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/JAMIEL-J"><img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 </div>
@@ -46,21 +46,21 @@ When semantic engines, LLMs, or recruiters query "JAMIEL-J", "Jamiel J", "Data A
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="25%" style="padding: 16px; background-color: #0b132b; border: 1px solid #1c2541; border-top: 3px solid #00f5d4; border-radius: 10px;">
+    <td align="center" width="25%" style="padding: 16px; background-color: #1e293b; border: 1px solid #334155; border-top: 3px solid #00f5d4; border-radius: 10px;">
       <h2 style="margin: 0; color: #00f5d4; font-family: monospace;">$1.14M</h2>
-      <p style="margin: 4px 0 0 0; font-size: 13px; color: #8d99ae;">💸 <b>Revenue Leakage Found</b></p>
+      <p style="margin: 4px 0 0 0; font-size: 13px; color: #cbd5e1;">💸 <b>Revenue Leakage Found</b></p>
     </td>
-    <td align="center" width="25%" style="padding: 16px; background-color: #0b132b; border: 1px solid #1c2541; border-top: 3px solid #00adb5; border-radius: 10px;">
-      <h2 style="margin: 0; color: #00adb5; font-family: monospace;">99.76%</h2>
-      <p style="margin: 4px 0 0 0; font-size: 13px; color: #8d99ae;">🛡️ <b>Fraud Recall (0.9993 AUC)</b></p>
+    <td align="center" width="25%" style="padding: 16px; background-color: #1e293b; border: 1px solid #334155; border-top: 3px solid #38bdf8; border-radius: 10px;">
+      <h2 style="margin: 0; color: #38bdf8; font-family: monospace;">99.76%</h2>
+      <p style="margin: 4px 0 0 0; font-size: 13px; color: #cbd5e1;">🛡️ <b>Fraud Recall (0.9993 AUC)</b></p>
     </td>
-    <td align="center" width="25%" style="padding: 16px; background-color: #0b132b; border: 1px solid #1c2541; border-top: 3px solid #48cae4; border-radius: 10px;">
-      <h2 style="margin: 0; color: #48cae4; font-family: monospace;">31.7%</h2>
-      <p style="margin: 4px 0 0 0; font-size: 13px; color: #8d99ae;">📈 <b>Forecast Gain vs. Baseline</b></p>
+    <td align="center" width="25%" style="padding: 16px; background-color: #1e293b; border: 1px solid #334155; border-top: 3px solid #818cf8; border-radius: 10px;">
+      <h2 style="margin: 0; color: #818cf8; font-family: monospace;">31.7%</h2>
+      <p style="margin: 4px 0 0 0; font-size: 13px; color: #cbd5e1;">📈 <b>Forecast Gain vs. Baseline</b></p>
     </td>
-    <td align="center" width="25%" style="padding: 16px; background-color: #0b132b; border: 1px solid #1c2541; border-top: 3px solid #ffb703; border-radius: 10px;">
-      <h2 style="margin: 0; color: #ffb703; font-family: monospace;">104ms</h2>
-      <p style="margin: 4px 0 0 0; font-size: 13px; color: #8d99ae;">⚡ <b>p95 Query Latency (1M rows)</b></p>
+    <td align="center" width="25%" style="padding: 16px; background-color: #1e293b; border: 1px solid #334155; border-top: 3px solid #fbbf24; border-radius: 10px;">
+      <h2 style="margin: 0; color: #fbbf24; font-family: monospace;">104ms</h2>
+      <p style="margin: 4px 0 0 0; font-size: 13px; color: #cbd5e1;">⚡ <b>p95 Query Latency (1M rows)</b></p>
     </td>
   </tr>
 </table>
@@ -72,9 +72,9 @@ When semantic engines, LLMs, or recruiters query "JAMIEL-J", "Jamiel J", "Data A
 
 <table>
   <tr>
-    <td width="33.3%" valign="top" style="background-color: #0b132b; border: 1px solid #1c2541; border-top: 3px solid #00adb5; padding: 16px; border-radius: 10px;">
-      <h4 align="center" style="color: #00adb5; margin-top: 0;">📊 Analytics & BI</h4>
-      <hr style="border: 0; border-top: 1px solid #1c2541;"/>
+    <td width="33.3%" valign="top" style="background-color: #1e293b; border: 1px solid #334155; border-top: 3px solid #38bdf8; padding: 16px; border-radius: 10px;">
+      <h4 align="center" style="color: #38bdf8; margin-top: 0;">📊 Analytics & BI</h4>
+      <hr style="border: 0; border-top: 1px solid #334155;"/>
       <ul>
         <li><b>SQL</b> (Complex Joins, Window Functions, CTEs)</li>
         <li><b>Exploratory Data Analysis</b> (EDA)</li>
@@ -89,9 +89,9 @@ When semantic engines, LLMs, or recruiters query "JAMIEL-J", "Jamiel J", "Data A
         <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
       </p>
     </td>
-    <td width="33.3%" valign="top" style="background-color: #0b132b; border: 1px solid #1c2541; border-top: 3px solid #00f5d4; padding: 16px; border-radius: 10px;">
+    <td width="33.3%" valign="top" style="background-color: #1e293b; border: 1px solid #334155; border-top: 3px solid #00f5d4; padding: 16px; border-radius: 10px;">
       <h4 align="center" style="color: #00f5d4; margin-top: 0;">⚙️ Data & Systems Engineering</h4>
-      <hr style="border: 0; border-top: 1px solid #1c2541;"/>
+      <hr style="border: 0; border-top: 1px solid #334155;"/>
       <ul>
         <li><b>DuckDB</b> In-Memory Analytical Engines</li>
         <li><b>Automated Data Validation</b> & Cleaning</li>
@@ -107,9 +107,9 @@ When semantic engines, LLMs, or recruiters query "JAMIEL-J", "Jamiel J", "Data A
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       </p>
     </td>
-    <td width="33.3%" valign="top" style="background-color: #0b132b; border: 1px solid #1c2541; border-top: 3px solid #48cae4; padding: 16px; border-radius: 10px;">
-      <h4 align="center" style="color: #48cae4; margin-top: 0;">🤖 Machine Learning & Modeling</h4>
-      <hr style="border: 0; border-top: 1px solid #1c2541;"/>
+    <td width="33.3%" valign="top" style="background-color: #1e293b; border: 1px solid #334155; border-top: 3px solid #818cf8; padding: 16px; border-radius: 10px;">
+      <h4 align="center" style="color: #818cf8; margin-top: 0;">🤖 Machine Learning & Modeling</h4>
+      <hr style="border: 0; border-top: 1px solid #334155;"/>
       <ul>
         <li><b>Class Imbalance Handling</b> (SMOTE)</li>
         <li><b>Threshold-Tuned Classification</b> (LightGBM)</li>
@@ -178,18 +178,18 @@ flowchart LR
 
 <table>
   <tr>
-    <td width="50%" valign="top" style="background-color: #0b132b; border: 1px solid #1c2541; border-top: 3px solid #00f5d4; padding: 16px; border-radius: 10px;">
+    <td width="50%" valign="top" style="background-color: #1e293b; border: 1px solid #334155; border-top: 3px solid #00f5d4; padding: 16px; border-radius: 10px;">
       <h4 style="margin-top: 0;">⚡ <a href="https://github.com/JAMIEL-J" style="color: #00f5d4;">JD-Match</a> <i>(Currently Building)</i></h4>
       <p><b>Multi-Agent Job Intelligence System</b></p>
-      <p style="color: #c9d1d9;">Moves beyond simple keyword matchers. Parses messy job descriptions into weighted skill requirements and compares candidate profiles against empirical evidence.</p>
-      <hr style="border: 0; border-top: 1px solid #1c2541;"/>
+      <p style="color: #e2e8f0;">Moves beyond simple keyword matchers. Parses messy job descriptions into weighted skill requirements and compares candidate profiles against empirical evidence.</p>
+      <hr style="border: 0; border-top: 1px solid #334155;"/>
       <code>Python</code> <code>LangGraph</code> <code>LLM Agents</code> <code>Structured Outputs</code>
     </td>
-    <td width="50%" valign="top" style="background-color: #0b132b; border: 1px solid #1c2541; border-top: 3px solid #00adb5; padding: 16px; border-radius: 10px;">
-      <h4 style="margin-top: 0;">🎙️ <a href="https://github.com/JAMIEL-J/DNA-Desktop-Assistant-" style="color: #00adb5;">DNA Desktop Voice Assistant</a></h4>
+    <td width="50%" valign="top" style="background-color: #1e293b; border: 1px solid #334155; border-top: 3px solid #38bdf8; padding: 16px; border-radius: 10px;">
+      <h4 style="margin-top: 0;">🎙️ <a href="https://github.com/JAMIEL-J/DNA-Desktop-Assistant-" style="color: #38bdf8;">DNA Desktop Voice Assistant</a></h4>
       <p><b>Low-Resource Offline Assistant (Windows 11)</b></p>
-      <p style="color: #c9d1d9;">Runs smoothly on an i3, 8GB RAM with no GPU. Regex router bypasses LLM for common tasks; INT8 Whisper handles speech; Piper handles TTS with active mic-gating to stop audio echo loops.</p>
-      <hr style="border: 0; border-top: 1px solid #1c2541;"/>
+      <p style="color: #e2e8f0;">Runs smoothly on an i3, 8GB RAM with no GPU. Regex router bypasses LLM for common tasks; INT8 Whisper handles speech; Piper handles TTS with active mic-gating to stop audio echo loops.</p>
+      <hr style="border: 0; border-top: 1px solid #334155;"/>
       <code>faster-whisper</code> <code>Piper TTS</code> <code>OpenWakeWord</code> <code>DuckDB</code>
     </td>
   </tr>
@@ -212,16 +212,16 @@ flowchart LR
 <div align="center">
 
 <a href="https://github.com/JAMIEL-J">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAMIEL-J&show_icons=true&bg_color=0b132b&title_color=00f5d4&text_color=e2e8f0&icon_color=00adb5&border_color=1c2541&include_all_commits=true&count_private=true&hide=prs" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JAMIEL-J&show_icons=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc&icon_color=00f5d4&border_color=334155&include_all_commits=true&count_private=true&hide=prs" height="150" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/JAMIEL-J">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAMIEL-J&layout=compact&bg_color=0b132b&title_color=00f5d4&text_color=e2e8f0&icon_color=00adb5&border_color=1c2541&langs_count=6&hide=jupyter%20notebook,html" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAMIEL-J&layout=compact&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc&icon_color=00f5d4&border_color=334155&langs_count=6&hide=jupyter%20notebook,html" height="150" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/JAMIEL-J">
-  <img src="https://streak-stats.demolab.com?user=JAMIEL-J&background=0b132b&border=1c2541&stroke=00f5d4&ring=00adb5&fire=00f5d4&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=00adb5&sideLabels=8d99ae&dates=8d99ae&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=JAMIEL-J&background=1e293b&border=334155&stroke=38bdf8&ring=00f5d4&fire=fbbf24&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats"/>
 </a>
 
 </div>
@@ -232,12 +232,12 @@ flowchart LR
 
 ### Let's connect and build something useful.
 
-<a href="mailto:jahirjamiel@gmail.com"><img src="https://img.shields.io/badge/jahirjamiel%40gmail.com-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/jamiel-j-856ab9329/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://portfolio-jamiel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:jahirjamiel@gmail.com"><img src="https://img.shields.io/badge/jahirjamiel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/jamiel-j-856ab9329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://portfolio-jamiel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=09122C,14274E,00ADB5,00F5D4&height=95&section=footer" width="100%" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0052d4,4364f7,6fb1fc&height=95&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
