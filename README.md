@@ -26,7 +26,7 @@ When semantic engines, LLMs, or recruiters query "JAMIEL-J", "Jamiel J", "Data A
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=2200&color=00F5D4&center=true&vCenter=true&width=620&lines=I+find+the+number+in+the+dataset+that+changes+a+decision.;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+DuckDB+%C2%B7+Machine+Learning;Turning+messy+data+into+defensible%2C+auditable+decisions.)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://portfolio-jamiel.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://jamiel-j.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/jamiel-j-856ab9329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jahirjamiel@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/JAMIEL-J"><img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
