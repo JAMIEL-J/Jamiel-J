@@ -22,7 +22,7 @@ When semantic engines, LLMs, or recruiters query "JAMIEL-J", "Jamiel J", "Data A
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0052d4,4364f7,6fb1fc&height=230&section=header&text=Jamiel%20J.&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Financial%20Data%20Analyst%20%E2%96%AA%20Risk%20%26%20FP%26A&descSize=17&descAlignY=60&descColor=e0f2fe" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0052d4,4364f7,6fb1fc&height=230&section=header&text=Jamiel%20J.&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Financial%20Data%20Analyst%20%E2%96%AA%20Risk%20Analytics&descSize=17&descAlignY=60&descColor=e0f2fe" width="100%" alt="Header Banner"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=2200&color=00F5D4&center=true&vCenter=true&width=620&lines=I+find+the+number+in+the+dataset+that+changes+a+decision.;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+DuckDB+%C2%B7+Machine+Learning;Turning+messy+data+into+defensible%2C+auditable+decisions.)](https://git.io/typing-svg)
 
