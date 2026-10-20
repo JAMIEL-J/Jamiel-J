@@ -240,7 +240,7 @@ flowchart LR
 
 <a href="mailto:jahirjamiel@gmail.com"><img src="https://img.shields.io/badge/jahirjamiel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/jamiel-j-856ab9329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://portfolio-jamiel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://jamiel-j.me/"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 
