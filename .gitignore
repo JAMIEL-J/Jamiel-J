@@ -1,0 +1,13 @@
+# Local scratch / unrelated files (wedding project, browser tooling)
+assets/
+assets.zip
+index.html
+.playwright-mcp/
+*.png
+
+# Screenshot workflow output - regenerated on demand
+cards-static/
+
+# Python
+__pycache__/
+*.pyc
